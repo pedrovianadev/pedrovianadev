@@ -7,7 +7,7 @@ As an environmental and software engineer, I'm interested in developing sustaina
 I have knowledge and practice in JavaScript, React, Node, Java, Spring, Go, MongoDB, MySQL, Git, Docker, Jest, and much more.
 
 
-## environmental and software engineer
+## Environmental and Software Engineer
 
 👩‍💻 Looking for my first opportunity as a software developer
 
